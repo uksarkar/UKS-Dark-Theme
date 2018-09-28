@@ -1,0 +1,16 @@
+{
+    "name": "UKS-Dark-Theme",
+    "title": "UKS Dark Theme",
+    "description": "A cool dark theme!",
+    "homepage": "https://github.com/utpalongit/uks-dark-theme",
+    "version": "1.0.0",
+    "author": "Utpal Sarkar <utpalsarkar010@gmail.com> (https://github.com/utpalongit/)",
+    "license": "MIT",
+    "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "categories": ["general","theme", "visual", "tabs", "working", "custom"],
+    "keywords": ["theme", "dark", "monokai","custom","style", "editor", "manage", "improve"]
+}
